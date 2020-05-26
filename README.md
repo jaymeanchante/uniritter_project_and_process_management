@@ -10,12 +10,14 @@ It addresses content related to basic project management terminologies, such as:
 
 ## References
 
-* CARVALHO, F. C. A. Gestão de Projetos. [Recurso eletrônico, Biblioteca Virtual Universitária]. 1ª ed. PEARSON, 2015. ARAUJO, Luis César G. de. Gestão de processos: melhores resultados e excelência organizacional [Recurso eletrônico, Minha Biblioteca]. 2. ed. – São Paulo: Atlas, 2017.
+* CARVALHO, F. C. A. Gestão de Projetos. [Recurso eletrônico, Biblioteca Virtual Universitária]. 1ª ed. PEARSON, 2015.
+
+* ARAUJO, Luis César G. de. Gestão de processos: melhores resultados e excelência organizacional [Recurso eletrônico, Minha Biblioteca]. 2. ed. – São Paulo: Atlas, 2017.
 
 * XAVIER, C. M. Gerenciamento de Projetos – Como definir e controlar o Escopo do projeto. [Recurso eletrônico, Minha Biblioteca]. 3ª ed. SARAIVA, 2016.
 
 * GUERREIRO, Karen Menger da Silva. Gestão de processos com suporte em tecnologia da informação [Recurso eletrônico, Biblioteca Virtual Universitária]. Curitiba: Intersaberes, 2013.
 
-* KERZNER, H. R. Gestão de Projetos: as melhores práticas. [Recurso eletrônico, Minha Biblioteca]. 3ª ed. BOOKMAN, 2017. DALTON, V. Moderno Gerenciamento de Projetos. [Recurso eletrônico, Biblioteca Virtual Universitária 3.0]. 2ª ed. PEARSON, 2015.
+* KERZNER, H. R. Gestão de Projetos: as melhores práticas. [Recurso eletrônico, Minha Biblioteca]. 3ª ed. BOOKMAN, 2017.
 
-
+* DALTON, V. Moderno Gerenciamento de Projetos. [Recurso eletrônico, Biblioteca Virtual Universitária 3.0]. 2ª ed. PEARSON, 2015.
