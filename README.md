@@ -21,3 +21,12 @@ It addresses content related to basic project management terminologies, such as:
 * KERZNER, H. R. Gestão de Projetos: as melhores práticas. [Recurso eletrônico, Minha Biblioteca]. 3ª ed. BOOKMAN, 2017.
 
 * DALTON, V. Moderno Gerenciamento de Projetos. [Recurso eletrônico, Biblioteca Virtual Universitária 3.0]. 2ª ed. PEARSON, 2015.
+
+## Compiling slides
+
+Dependencies:
+
+* [LaTeX](https://www.latex-project.org/)
+* [pandoc](https://pandoc.org/)
+
+Then run `sh compile.sh`
