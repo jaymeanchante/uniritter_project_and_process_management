@@ -26,7 +26,8 @@ It addresses content related to basic project management terminologies, such as:
 
 Dependencies:
 
+* [GNU Make](https://www.gnu.org/software/make/)
 * [LaTeX](https://www.latex-project.org/)
 * [pandoc](https://pandoc.org/)
 
-Then run `sh compile.sh`
+Then run `make`
