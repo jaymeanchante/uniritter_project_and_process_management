@@ -73,3 +73,92 @@ Capacidades:
 - RH
 
 - Área de atuação dos alunos?
+
+# TI e a pressão externa
+
+- Pressão de mercado
+    - Mercado global de mão de obra
+    - Mercado global de produtos
+TI permite organizar times remotos, ofertar produtos online, relacionar com clientes
+
+- Pressão de tecnologia
+    - Inovação e obsolescência
+    - Sobrecarga de informação
+TI permite a criação de mecanismos de busca, banco de dados, data mining
+
+- Pressão social
+    - Ética
+    - Ambiental
+    - Saúde
+    - Segurança
+TI permite criar processos seletivos objetivos, gerenciamento de resíduos, detec'ão de doenças etc.
+
+# Planejamento de sistemas de informação
+
+- Alinhar o plano da TI com os negócios da empresa
+- Arquitetura  que permite que usuários, aplicativos e bancos de dados estejam integrados
+- Alocação eficiente dos recursos
+- Projetos concluídos dentro do prazo e do orçamento
+
+# Um modelo de planejamento de TI
+
+Modelo de 4 etapas de Wetherbe
+
+- Planejamento estratégico: definir missão, avaliar ambiente, objetivos estratégicos da empresa, avaliar necessidades de informação da empresa
+- Análise de requisitos: definir arquitetura, subssistemas organizacionais
+- Alocação de recursos: alocar recursos para desenvolvimento de software, hardware, instalações, pessoal, plano financeiro
+- Planejamento do projeto: delinear cronograma, estrutura geral específica para planejamento, programação e controle para o desenvolvimento de aplicativos específicos
+
+# Priorização de projetos de TI
+
+Existem muitos projetos que são iniciados em resposta à pressões de mercado. Projetos de grande monta de recursos e expectativas. Riscos de atraso, aumento de custo, desalinhamentos quando os projetos não são bem gerenciados
+
+# Administração do portfólio de projetos
+
+Lista de projetos é constantemente atualizada e revisada
+
+Novos projetos são avaliados, selecionados e priorizados; projetos existentes são acelerados, despriorizados ou eliminados; recursos são alocados e realocados
+
+Método de priorização deve contemplar:
+
+- Alinhamento com a estratégia da organização
+- Importáncia explicitada de forma clara
+- Processo flexível de priorização, simples e rápido
+- Sinergias entre projetos
+
+# Priorização estratégica de projetos
+
+Complexidade vs Importância
+
+# Governança em TI
+
+COBIT: Control Objectives for Information related Technology. Diz o que deve ser feito. Os conceitos, metodologias e ferramentas de mercado cuidam de como fazer, tais como: ITIL, Six Sigma, PMI, BSC, CMM, Unified Process, Benchmarking
+
+# COBIT
+
+É uma estrutura de relações e processos para dirigir e controlar o ambiente de TI para alcançar as metas organizacionais somando valor enquanto equilibra risco e retorno sobre o investimento
+
+4 dimensões:
+
+- Planejamento e organização
+- Aquisição e implementação
+- Entrega e suporte
+- Monitoramento
+
+Além disso, são definidos 34 processos e 318 objetivos de controle para dar uma visão ampla sobre o que é requerido da TI
+
+# Requerimentos de negócio
+
+- Efetividade
+- Eficiência
+- Conformidade/compliance
+- Confiabilidade
+- Confidencialidade
+- Integridade
+- Disponibilidade
+
+# Modelagem de processos
+
+COBIT trata do que deve ser feito, não do como. Independente da metodologia, os passos giram em torno de
+
+Levantamento da situação atual -> análise e diagnóstico -> desenho da situação desejada -> implementação -> monitoramento
