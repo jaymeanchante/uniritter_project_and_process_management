@@ -4,6 +4,8 @@
 
 # Apresentação pessoal
 
+## Dados pessoais
+
 Jayme Anchante
 
 Cientista de dados economista
@@ -164,3 +166,47 @@ COBIT trata do que deve ser feito, não do como. Independente da metodologia, os
 Levantamento da situação atual -> análise e diagnóstico -> desenho da situação desejada -> implementação -> monitoramento
 
 COBIT auxilia a estruturação de levantamento, entendimento, gap nalysis, acompanhamento da implementação e monitoramento dos processos
+
+# ITIL
+
+Information Technology Infrastructure Library é um modelo referência para gerenciamento de processos de TI aceito mundialmente
+
+Criado pela secretaria de comércio da Inglaterra
+
+Descreve os processos necessários para gerenciar a infraestrutura de TI eficientemente
+
+É norma BS-15000, sendo um anexo da ISO 9000/2000
+
+# Características do ITIL
+
+- Modelo de referência para processos de TI não proprietário
+- Adequadro para todas as áreas de atividade
+- Independente de tecnologia e fornecedor
+- Baseado nas melhores práticas
+- Padronização de terminologias
+- Interdependência de processos
+- O que fazer e o que não fazer
+
+# ITIL para gerenciamento de serviços
+
+Alguns dos processos e módulos são:
+
+- Service support: service desk, incedent management, problem management, configuration management, change management, release management
+
+- Service delivery: service level management, finance management, capacity management, continuity management, availability management
+
+# Sarbanes-Oxley
+
+Ato de 2002 em resposta aos escândalos financeiros de empresas dos EUA como Enron, WorldCom, Tyco e Arthur Andersen
+
+Estabelece novos padrões de responsabilidade contábil corporativa: responsabilização e participação direta do CEO e CFO pelas divulgações da empresa, multas e sanções penais estendidas aos auditores
+
+# Sarbanes-Oxley e a TI
+
+Seção 404 do ato fala sobre a manutenção de controles internos, processos para emissão de relatórios financeiros
+
+Segurança de rede e uso de aplicações terceirizadas por companhias abertas: invasões, ataques, vírus, roubo de dados, fraudes de senhas podem implicar responsabilidade dos administradores se não houver prova de adoção de medidas preventivas
+
+Segurança dos sistemas de informação - ERP, CRM, Supply Chain Management, banco de dados - devem estar em sintonia com a lei. Questão do outsourcing
+
+# 
