@@ -8,15 +8,17 @@
 
 Jayme Anchante
 
-Cientista de dados economista
+Economista
 
-# Formação acadêmica
+Cientista de dados 
+
+## Formação acadêmica
 
 - Bacharel em Economia/UFRGS
 - Mestre em Economia Aplicada/UFV
 - Especialista em Ciência de dados/UFPR
 
-# Atuação profissional
+## Atuação profissional
 
 - Business Intelligence/Contabilizei
 - Cientista de dados/4all Tecnologia
@@ -24,11 +26,11 @@ Cientista de dados economista
 
 # Disciplina
 
-Gestão de projetos e processos
+## Gestão de projetos e processos
 
 Aborda conteúdos relacionados às terminologias básicas de gestão de projetos, tais como: o que é projeto e gerenciamento de projetos, relações entre projeto, programa e portfólio de projetos, distinção entre projeto e processos. Além disso, analisa as metodologias, técnicas e ferramentas para a racionalização de processos organizacionais.
 
-# Encontros
+## Encontros
 
 Das 18:30 às 22:00 
 
@@ -38,14 +40,16 @@ Das 18:30 às 22:00
 4. 17 de junho
 5. 22 de junho
 
-# Tópicos
+## Tópicos
 
-# Avaliação
+## Avaliação
 
 * 1 trabalho no dia 10 de junho para enviar até o dia 15 de junho
 * 1 trabalho no dia 17 de junho para enviar até o dia 22 de junho
 
 # Introdução ao gerenciamento de projetos
+
+## Conceitos iniciais
 
 Tecnologia de informação, departamentos, economia e mercado, planejamento e governança
 
@@ -55,7 +59,7 @@ Gerenciamento de qualidade, risco, rh, seis sigma, umpp
 
 Particularidades de TI
 
-# O que é tecnologia da informação
+## O que é tecnologia da informação
 
 A coleção de sistema de computação utilizado por uma empresa
 
@@ -67,7 +71,7 @@ Capacidades:
 - Armazenar dados
 - Permitir comunicação e colaboração em qualquer lugar/momento
 
-# TI e os demais departamentos
+## TI e os demais departamentos
 
 - Financeiro e contábil
 - Marketing
@@ -76,7 +80,7 @@ Capacidades:
 
 - Área de atuação dos alunos?
 
-# TI e a pressão externa
+## TI e a pressão externa
 
 - Pressão de mercado
     - Mercado global de mão de obra
@@ -95,14 +99,14 @@ TI permite a criação de mecanismos de busca, banco de dados, data mining
     - Segurança
 TI permite criar processos seletivos objetivos, gerenciamento de resíduos, detec'ão de doenças etc.
 
-# Planejamento de sistemas de informação
+## Planejamento de sistemas de informação
 
 - Alinhar o plano da TI com os negócios da empresa
 - Arquitetura  que permite que usuários, aplicativos e bancos de dados estejam integrados
 - Alocação eficiente dos recursos
 - Projetos concluídos dentro do prazo e do orçamento
 
-# Um modelo de planejamento de TI
+## Um modelo de planejamento de TI
 
 Modelo de 4 etapas de Wetherbe
 
@@ -111,11 +115,11 @@ Modelo de 4 etapas de Wetherbe
 - Alocação de recursos: alocar recursos para desenvolvimento de software, hardware, instalações, pessoal, plano financeiro
 - Planejamento do projeto: delinear cronograma, estrutura geral específica para planejamento, programação e controle para o desenvolvimento de aplicativos específicos
 
-# Priorização de projetos de TI
+## Priorização de projetos de TI
 
 Existem muitos projetos que são iniciados em resposta à pressões de mercado. Projetos de grande monta de recursos e expectativas. Riscos de atraso, aumento de custo, desalinhamentos quando os projetos não são bem gerenciados
 
-# Administração do portfólio de projetos
+## Administração do portfólio de projetos
 
 Lista de projetos é constantemente atualizada e revisada
 
@@ -128,15 +132,17 @@ Método de priorização deve contemplar:
 - Processo flexível de priorização, simples e rápido
 - Sinergias entre projetos
 
-# Priorização estratégica de projetos
+## Priorização estratégica de projetos
 
 Complexidade vs Importância
 
 # Governança em TI
 
-COBIT: Control Objectives for Information related Technology. Diz o que deve ser feito. Os conceitos, metodologias e ferramentas de mercado cuidam de como fazer, tais como: ITIL, Six Sigma, PMI, BSC, CMM, Unified Process, Benchmarking
+## COBIT
 
-# COBIT
+Control Objectives for Information related Technology. Diz o que deve ser feito. Os conceitos, metodologias e ferramentas de mercado cuidam de como fazer, tais como: ITIL, Six Sigma, PMI, BSC, CMM, Unified Process, Benchmarking
+
+## Conceito
 
 É uma estrutura de relações e processos para dirigir e controlar o ambiente de TI para alcançar as metas organizacionais somando valor enquanto equilibra risco e retorno sobre o investimento
 
@@ -149,7 +155,7 @@ COBIT: Control Objectives for Information related Technology. Diz o que deve ser
 
 Além disso, são definidos 34 processos e 318 objetivos de controle para dar uma visão ampla sobre o que é requerido da TI
 
-# Requerimentos de negócio
+## Requerimentos de negócio
 
 - Efetividade
 - Eficiência
@@ -159,7 +165,7 @@ Além disso, são definidos 34 processos e 318 objetivos de controle para dar um
 - Integridade
 - Disponibilidade
 
-# Modelagem de processos
+## Modelagem de processos
 
 COBIT trata do que deve ser feito, não do como. Independente da metodologia, os passos giram em torno de
 
@@ -167,7 +173,7 @@ Levantamento da situação atual -> análise e diagnóstico -> desenho da situa�
 
 COBIT auxilia a estruturação de levantamento, entendimento, gap nalysis, acompanhamento da implementação e monitoramento dos processos
 
-# ITIL
+## ITIL
 
 Information Technology Infrastructure Library é um modelo referência para gerenciamento de processos de TI aceito mundialmente
 
@@ -177,7 +183,7 @@ Descreve os processos necessários para gerenciar a infraestrutura de TI eficien
 
 É norma BS-15000, sendo um anexo da ISO 9000/2000
 
-# Características do ITIL
+## Características do ITIL
 
 - Modelo de referência para processos de TI não proprietário
 - Adequadro para todas as áreas de atividade
@@ -187,7 +193,7 @@ Descreve os processos necessários para gerenciar a infraestrutura de TI eficien
 - Interdependência de processos
 - O que fazer e o que não fazer
 
-# ITIL para gerenciamento de serviços
+## ITIL para gerenciamento de serviços
 
 Alguns dos processos e módulos são:
 
@@ -195,13 +201,13 @@ Alguns dos processos e módulos são:
 
 - Service delivery: service level management, finance management, capacity management, continuity management, availability management
 
-# Sarbanes-Oxley
+## Sarbanes-Oxley
 
 Ato de 2002 em resposta aos escândalos financeiros de empresas dos EUA como Enron, WorldCom, Tyco e Arthur Andersen
 
 Estabelece novos padrões de responsabilidade contábil corporativa: responsabilização e participação direta do CEO e CFO pelas divulgações da empresa, multas e sanções penais estendidas aos auditores
 
-# Sarbanes-Oxley e a TI
+## Sarbanes-Oxley e a TI
 
 Seção 404 do ato fala sobre a manutenção de controles internos, processos para emissão de relatórios financeiros
 
@@ -209,4 +215,84 @@ Segurança de rede e uso de aplicações terceirizadas por companhias abertas: i
 
 Segurança dos sistemas de informação - ERP, CRM, Supply Chain Management, banco de dados - devem estar em sintonia com a lei. Questão do outsourcing
 
-# 
+## Conceito de projeto
+
+Empreendimento temporário com o objetivo de criar um produto ou serviço único
+
+Projeto é um empreendimento ou evento não repetitivo, caracterizado por uma sequência clara e lógica de eventos, com início, meio e fim, que se destina a atingir um objetivo claro e definido, sendo conduzido por pessoas dentro de parâmetros predefinidos de tempo, custo, recursos envolvidos e qualidade
+
+É complexo o suficiente para necessitar de uma capacidade de coordenação específica e um controle de prazos, relacionamentos, custo e performance
+
+## Performance
+
+Aumento de produtividade
+
+Utilização de recursos de maneira efetiva
+
+## Projeto vs operações rotineiras
+
+Entrada de dados numa planilha de folha de pagamentos todo mês
+
+Continuidade
+
+Projetos são temporários. E.g. implementação de um novo processo de folha
+
+## História do gerenciamento de projetos
+
+Meados do século XX surgiram grandes projetos: Manhattan, Polaris, Homem à Lua
+
+## Projeto Manhattan
+
+EUA com objetivo de construir a bomba atômica
+
+US$ 2 bi
+
+Primavera de 1942
+
+General Leslie Groves liderou cientistas, engenheiros
+
+## Projeto Polaris
+
+Melhorar o sistema de defesa americano pela Marinha
+
+Guerra fria
+
+Novas técnicas de diferenciação de equipe, cooperação, foco no resultado
+
+Ferramentas como PERT, reuniões executivas semanais  
+
+## Projeto Homem à Lua
+
+NASA
+
+Capacitação dos fornecedores
+
+## Projeto da internet mundial
+
+Nasceu em 1969 para interligar centros de pesquisa 
+
+ARPAnet: Advanced Research Projects Agency
+
+Não há um agente central, unindo inicialmente laboratórios e universidades 
+
+Protocolo TCP/IP - Transmission Control Protocol/Internet Protocol 
+
+1987 liberado uso comercial, anos 90 provedores de acesso
+
+## Projeto World Wide Web
+
+Nasceu em 1991 no CERN, na Suíça
+
+Tim Berners-Lee para acessar documentos científicos 
+
+Criação do Mosaic, primeiro navegador com interface gráfica
+
+http - Hipertext Transfer Protocol, hipertexto com imagens e links
+
+## Projeto Internet no Brasil
+
+Associação Rede Nacional de Ensino e Pesquisa constituída em 1989
+
+Conectando todos os estados em mais de 300 instituições
+
+Objetivo de pesquisa, ensino e extensão
