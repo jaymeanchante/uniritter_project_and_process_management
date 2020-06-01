@@ -632,4 +632,89 @@ Base de conhecimento e software criado pela ILL (Intelligence, Integrity and Inn
 
 Compartilhar abordagens unificadas, combinar processos e documentos esepcíficos, implementação das técnicas Seis Sigma
 
-# 
+# Peculiaridades dos projeto de TI sob a ótica das 9 áreas do conhecimento
+
+## 9 áreas do conhecimento
+
+1. Gerenciamento da Integração  
+2. Gerenciamento do Escopo  
+3. Gerenciamento do Tempo  
+4. Gerenciamento dos Custos  
+5. Gerenciamento da Qualidade  
+6. Gerenciamento dos Recursos Humanos  
+7. Gerenciamento das Comunicações  
+8. Gerenciamento dos Riscos  
+9. Gerenciamento das Aquisições  
+
+## Gerenciamento da Integração
+
+Coordenação de todas as interfaces e processos
+
+Dificuldades por conta do avanço constante da tecnologia
+
+Delegação formal do gerente de projetos para coordenar o projeto
+
+## Gerenciamento de Escopo
+
+Escopo é todo trabalho envolvido na criação dos produtos do projeto e os processos utilizados para cri-a-los, e deve ser baseado nos requisitos e necessidades do cliente ou usário
+
+Formalização através de um documento
+
+Qualquer modificação deve passar pro um processo de avaliação de impactos, além de renegociação de aspectos do projeto
+
+## Gerenciamento do Tempo
+
+Cronograma é uma fonte comum de conflito (e.g. priorização)
+
+Tempo é facilmente medido (prazo final de entrega), enquanto escopo é muitas vezes flexível e subjetivo
+
+Tempo com homologação, testes, *code-reviews*
+
+## Gerenciamento de Custos
+
+Custo é um montante monetário dispendido para aquisição de bens e serviços
+
+Custo de oportunidade: aplicar recursos em usos alternativos
+
+Difícil de estimar se o escopo e os requisitos não estão claros
+
+## Gerenciamento de Qualidade
+
+Processos necessários para garantir que o projeto satisfaça às necessidades para as quais ele foi empreendido
+
+Um dos aspectos de qualidade é a entrega no prazo, dentro do orçamento
+
+Saber do cliente a visão de sucesso. Se for entrega no prazo, talvez investir mais dinheiro para concretizar isso
+
+## Gerenciamento de Recursos Humanos
+
+Encontrar e gerenciar pessoas qualificadas, domínio do inglês
+
+Registrar as lições aprendidas pela equipe durante o projeto
+
+Manter pessoas qualificadas, salários e benefícios competitivos, treinamentos *in-company*
+
+## Gerenciamento da Comunicação
+
+Fatores para falha na comunicação: usuário não se envolve em todas as etapas do projeto, falta de apoio dos altos executivos, levantamento de requisitos inconsistentes
+
+Envolvimento da TI com outros departamentos: vocabulários, jargões, problemas de "socialização"/*soft skills*
+
+## Estudo das habilidades mais buscadas pelo LinkedIn
+
+## Gerenciamento de Riscos
+
+Riscos de pessoas, tecnológico, de mercado, financeiro
+
+## Estudo de adoção de tecnologia do Nubank
+
+
+## Gerenciamento das Aquisições
+
+Em TI comumente se chama "terceirização", fornecedores como termo geral
+
+Contratação para um fim específico e duradouro: administração de dados, *help desk*
+
+Terceirização de projetos de TI por consultorias ou firmas especializadas, áreas *core* vs tercerizáveis, problemas de confidencialidade
+
+# Processos de iniciação
