@@ -2,6 +2,16 @@
 % Jayme Anchante
 % 8 de junho de 2020
 
+# Incluir
+
+## Lista
+
+- Why we think Flutter will help us scale mobile development at Nubank  
+- pacote do R para Seis Sigma  
+- Como fazer uma matriz SWOT  
+- Programação para matemática financeira  
+- Vídeo sobre o caso Enron  
+
 # Apresentação pessoal
 
 ## Dados pessoais
@@ -778,3 +788,212 @@ Entradas são: termo de abertura do projeto, declaração do trabalho do projeto
 Saída é a própria declaração do escopo preliminar do projeto
 
 # Grupo de processos de planejamento
+
+## Processos de planejamento
+
+- Desenvolvimento do plano de gerenciamento de projetos (4.3)  
+- Planejamento do escopo (5.1)  
+- Definição do escopo (5.2)  
+- Criação da EAP (5.3)  
+- Definição da atividades (6.1)  
+- Sequenciamento de atividades (6.2)  
+- Estimativas de recursos da atividade (6.3)  
+- Estimativa de duração da atividade (6.4)  
+- Desenvolvimento do cronograma (6.5)  
+- Estimativa de custos (7.1)  
+
+## Processos de planejamento
+
+- Orçamento (7.2)  
+- Planejamento de qualidade (8.1)  
+- Planejamento de recursos humanos (9.1)  
+- Planejamento das comunicações (10.1)  
+- Planejamento do gerenciamento de riscos (11.1)  
+- Identificação dos riscos (11.2)  
+- Análise qualitativa dos riscos (11.3)  
+- Análise quantitativa dos riscos (11.4)  
+- Planejamento de respostas a riscos (11.5)  
+- Planejamento de compras e aquisições (12.1)  
+- Planejamento de contratações (12.2)  
+
+## Desenvolvimento do plano de gerenciamento de projetos (4.3)
+
+Ações para definir, coordenar e integrar todos os planos auxiliares em um plano de gerenciamento do projeto
+
+Documento dinâmico
+
+Como o projeto será conduzido, monitorado, controlado e encerrado
+
+Incluir: processos, implementação para cada processo, ferramentas e técnicas de comunicação entre stakeholders, ciclo de vida do projeto; plano de gerenciamento de escopo, cronograma, custos, qualidade, pessoal, comunicações, riscos, aquisições, marcos, cronograma e riscos
+
+## Planejamento do escopo (5.1)
+
+Documenta como o escopo será definido, verificado e controlado e como a EAP (estrutura analítica do projeto) será definida
+
+## Definição do escopo (5.2)
+
+Declaração de escopo detalhada com entregas, premissas e restrições
+
+Necessidades, anseios e expectativas dos *stakeholders* são transformadas em requisitos
+
+Deve conter: objetivos, descrição do produto, requisitos, limites, entregas, critérios de aceitação, restrições, premissas, organização inicial, riscos iniciais, marcos, estimativas de custos, requisitos de aprovação
+
+## Estrutura analítica do projeto (5.3)
+
+Estrutura orientada à entrega do trabalho a ser conduzido pela equipe
+
+Define de forma visual o escopo total do projeto e subdivide o trabalho em partes menores, possibilitando melhor gerenciamento e entendimento
+
+![Exemplo de estrutura analítica de projeto](images/class1/wbs.png)
+
+## Definicação da atividade (6.1)
+
+Identificar e documentar o trabalho planejado para ser realizado
+
+Identifica as entregas no nível mais baixo da EAP, recebendo o nome de pacote de trabalho, os pacotes são decompostos em partes menores chamadas de atividades do cronograma
+
+Usadas para fornecer estimativas, cronogramas, execução, monitoramento e controle do trabalho
+
+## Sequenciamento de atividades (6.2)
+
+Documentação das relações de dependência entre as atividades para criar cronogramas mais realistas
+
+Técnicas de diagramas de precedência, diagrama de setas
+
+## Estimativas de recursos da atividade (6.3)
+
+Determinação de recursos (pessoas, equipamentos, materiais) e quantidades de recursos e quando estarão disponíveis
+
+## Estimativa de duração da atividade (6.4)
+
+Determina o tempo das atividades para entrada do cronograma, devem ser feitas por pessoas experientes e familiarizadas, levando-se em conta o nível de experiência e qualificação
+
+## Desenvolvimento do cronograma (6.5)
+
+Determina a data de início e fim para cada atividade, devem ser realistas
+
+## Estimativa de custos (7.1)
+
+Realizar um orçamento prévio dos custos dos recursos necessários para executar e completar as tarefas do projeto
+
+## Orçamento (7.2)
+
+Alocar as estimativas de custos às atividades individuais dos pacotes de trabalho
+
+## Planejamento da qualidade (8.1)
+
+Identificar padrões de qualidade e verificar como obter a satisfação desses padrões
+
+Executado frequentemente e em paralelo aos outros processos
+
+Reconhecer a satisfação do cliente, melhoria contínua
+
+## Planejamento de recursos humanos (9.1)
+
+Identificação, documentação de funções, responsabilidades e relações hierárquicas do projeto
+
+Verificar o organograma e as descrições de cargos
+
+## Planejamento das comunicações (10.1)
+
+Determinar quais informações serão necessárias para o projeto e de que forma serão comunicadas entre as partes envolvidas
+
+## Planejamento do gerenciamento de riscos (11.1)
+
+Processo de decidir como abordar, planejar e executar as atividade de gerenciamento de riscos de um projeto
+
+Deve conter as categorias de risco, definição de probabilidades e impacto dos riscos, tolerância das partes interessadas
+
+## Identificação dos riscos (11.2)
+
+Determinar quais riscos podem causar impactos no projeto e documentar as características desses riscos
+
+Todos os envolvidos devem identificar riscos, pois cada um tem uma visão
+
+Uma das técnicas a matriz SWOT
+
+## Análise qualitativa dos riscos (11.3)
+
+Avaliar o impacto e a probabilidade dos riscos identificados, tratar riscos específicos e tomar ações proativas quando ocorrerem
+
+Categorização dos riscos, avaliação de urgências e prioridades dos riscos
+
+## Análise quantitativa dos riscos (11.4)
+
+Analisar numericamento e verificar a probabilidade de cada risco e seus impactos nos objetivos do projeto
+
+Análises quantitativas de sensiblidade, valor monetário esperado, simualão de Monte Carlo
+
+## Planejamento de respostas a riscos (11.5)
+
+Reduzir as ameaças de riscos em relação às metas do projeto
+
+Identificar pessoas ou grupos que serão responsáveis por assegurar que os riscos sejam identificados e tratados correta e proativamente
+
+## Planejamento de compras e aquisições (12.1)
+
+Identificar quais necessidades do projeto podem ser mais bem atendidads através da contratação de produtos ou serviços externos à organização
+
+Determina o que comprar, quando e como fazer isso
+
+## Planejamento de contratações (12.2)
+
+Preparar os documentos necessários para o processos de seleção de fornecedores
+
+# Processos de execução
+
+## Etapas
+
+- Orientação e gerenciamento da execução do projeto (4.4)  
+- Realização da garantia da qualidade (8.2)  
+- Controle e mobilização da equipe do projeto (9.2)  
+- Desenvolvimento da equipe do projeto (9.3)  
+- Distribuição das informações (10.2)  
+- Solicitação de respostas de fornecedores (12.3)  
+- Seleção dos fornecedores (12.4)  
+
+## Orientação e gerenciamento da execução do projeto (4.4)
+
+Exigir do gerente e equipe ações para executar o trabalho declarado no escopo
+
+Algumas das ações são: executar as atividades conforme planejado, alocar recursos, formar e treinar membros da equipe, obter cotações e licitações e propostas, selecionar fornecedores, validar entregas, gerenciar riscos, gerenciar canais de comunicação etc
+
+## Realização da garantia da qualidade (8.2)
+
+Assegurar que o projeto vai empregar processos para atender aos requisitos
+
+Usa ferramentas de mensuração de qualidade, auditoria de qualidade
+
+## Controle e mobilização da equipe do projeto (9.2)
+
+Processo de obtenção das pessoas
+
+Técnicas de negociação, contratação e/ou mobilização de pessoal
+
+## Desenvolvimento da equipe do projeto (9.3)
+
+Aumento da capacidade individual e da equipe como um todo
+
+Técnica de empatia, influência, criatividade e facilitação de grupos, treinamentos, reconhecimentos e premiações
+
+Pesquisa internas de satisfação, taxa de rotatividade de pessoal
+
+## Distribuição das informações (10.2)
+
+Disponibilização das informações necessárias a todos os envolvidos
+
+Criar documentação de lições aprendidas, registro do projeto, relat[orio e apresentações, feedbacks
+
+## Solicitação de respostas de fornecedores (12.3)
+
+Obtenção de informações - cotações e propostas - dos fornecedores potenciais
+
+Anúncio das demandas, reunião com licitantes
+
+## Seleção dos fornecedores (12.4)
+
+Recepção da coleta de preços ou propostas e aplicação de critérios da organização para avaliação de fornecedores
+
+Avaliação por preço/custo, abordagem técnica (melhor tecnologia ou solução)
+
+# Processos de monitoramento e controle
