@@ -997,3 +997,82 @@ Recepção da coleta de preços ou propostas e aplicação de critérios da orga
 Avaliação por preço/custo, abordagem técnica (melhor tecnologia ou solução)
 
 # Processos de monitoramento e controle
+
+## Etapas
+
+- Monitoramento e controle do trabalho do projeto (4.5)  
+- Controle integrado de mudanças (4.6)  
+- Verificação do escopo (5.4)  
+- Controle do escopo (5.5)  
+- Controle do cronograma (6.6)  
+- Controle de custos (7.3)  
+- Realização do controle da qualidade (8.3)  
+- Gerenciamento da equipe do projeto (9.4)  
+- Relatório de desempenho (10.3)  
+- Gerenciamento das partes interessadas (10.4)  
+- Monitoramento e controle de riscos (11.6)  
+- Administração de contrato (12.5)  
+
+## Monitoramento e controle do trabalho do projeto (4.5)
+
+Processo para monitorar os processos do projeto associados com a iniciação, o planejamento, a execução e o encerramento
+
+Ações preventivas ou corretivas para controlar o desempenho do projeto
+
+Monitoramento contínuo, comparação do desempenho real com o esperado
+
+## Controle integrado de mudanças (4.6)
+
+Determinar a ocorrência de uma mudança e gerenciar elas, matendo as métricas básicas de desempenho, assegurar que mudanças no escopo do produto reflitam mudanças no escopo do projeto, coordenar mudanças entre as áreas de conhecimento
+
+## Verificação do escopo (5.4)
+
+Formalização do aceite de escopo do projeto por todos os envolvidos, revisão dos produtos e resultados
+
+## Controle do escopo (5.5)
+
+Assegurar que as mudanças no escopo sejam analisadas, discutidas e acordadas antes da implementação
+
+Integrar essas mudanças nos demais processos
+
+## Controle do cronograma (6.6)
+
+Assegurar que os aspectos gerados das mudanças sejam benéficos para a condução do projeto, além do gerenciamento das mudanças
+
+## Controle de custos (7.3)
+
+Verificar fatores que criam mudanças no *baseline* de custo
+
+## Realização do controle da qualidade (8.3)
+
+Monitorar os resultados específicos do projetos e determinar se eles estão de acordo com os padrões de qualidade esperados
+
+Consultar as métricas de qualidade e listas de verificação e informações de desempenho
+
+Técnica do diagrama de Pareto: histograma ordenado por frequencia que mostra quantos resultados foram gerados por tipo ou categoria de causa identificada, ações para corrigir problemas que estão causando a maior quantidade de defeitos
+
+## Gerenciamento da equipe do projeto (9.4)
+
+Acompanhamento do desempenho dos integrantes da equipe, fornecer *feedback*, resolução de problemas e coordenação de mudanças para melhorar o desempenho do projeto
+
+Técnicas de observação e conversas, avaliação de desempenho, gerenciamento de conflitos e registro de problemas
+
+## Relatório de desempenho (10.3)
+
+Colher e disseminar as informações de desempenho para posicionar todos os envolvidor sobre a utilização dos recursos do projeto
+
+Relatório de *status* (em relação ao cronograma, orçamento), de progresso (o que já conseguiu realizar, atividades completas *vs* em andamento), de previsões (futuro de acordo com a situação atual e andamento)
+
+## Gerenciamento das partes interessadas (10.4)
+
+Comunicações para atender às necessidades das partes interessadas no projeto
+
+## Monitoramento e controle de riscos (11.6)
+
+Manter a rastreabilidade dos riscos identificados, monitorar riscos residuais e identificar novos riscos, garantir a execução dos planos de risco e efetividade na redução dos riscos
+
+## Administração de contrato (12.5)
+
+Garante que o fornecedor atenda aos requisitos contratuais
+
+Gestão financeira monitorando os pagamentos ao fornecedor
