@@ -1,61 +1,6 @@
-% Aula 1 - Introdução
+% Aula 1 - Introdução ao gerenciamento de projetos
 % Jayme Anchante
 % 8 de junho de 2020
-
-# Incluir
-
-## Lista
-
-- Why we think Flutter will help us scale mobile development at Nubank  
-- pacote do R para Seis Sigma  
-- Como fazer uma matriz SWOT  
-- Programação para matemática financeira  
-- Vídeo sobre o caso Enron  
-
-# Apresentação pessoal
-
-## Dados pessoais
-
-Jayme Anchante
-
-Economista
-
-Cientista de dados 
-
-## Formação acadêmica
-
-- Bacharel em Economia/UFRGS
-- Mestre em Economia Aplicada/UFV
-- Especialista em Ciência de dados/UFPR
-
-## Atuação profissional
-
-- Business Intelligence/Contabilizei
-- Cientista de dados/4all Tecnologia
-- Cientista de dados/Ticket Log
-
-# Disciplina
-
-## Gestão de projetos e processos
-
-Aborda conteúdos relacionados às terminologias básicas de gestão de projetos, tais como: o que é projeto e gerenciamento de projetos, relações entre projeto, programa e portfólio de projetos, distinção entre projeto e processos. Além disso, analisa as metodologias, técnicas e ferramentas para a racionalização de processos organizacionais.
-
-## Encontros
-
-Das 18:30 às 22:00 
-
-1. 8 de junho
-2. 10 de junho
-3. 15 de junho
-4. 17 de junho
-5. 22 de junho
-
-## Tópicos
-
-## Avaliação
-
-* 1 trabalho no dia 10 de junho para enviar até o dia 15 de junho
-* 1 trabalho no dia 17 de junho para enviar até o dia 22 de junho
 
 # Introdução ao gerenciamento de projetos
 
@@ -1076,3 +1021,105 @@ Manter a rastreabilidade dos riscos identificados, monitorar riscos residuais e 
 Garante que o fornecedor atenda aos requisitos contratuais
 
 Gestão financeira monitorando os pagamentos ao fornecedor
+
+# Processos de encerramento
+
+## Etapas
+
+- Encerramento do projeto (4.7)
+- Encerramento do contrato (12.6)
+
+## Encerramento do projeto (4.7)
+
+Encerra a parte do escopo do projeto e as atividades associadas
+
+## Encerramento do contrato (12.6)
+
+Confirmação de que todo trabalho e as entregas foram aceitas pelo cliente ou usuário
+
+# Associações e certificações
+
+## PMI
+
+Project Management Institute é uma instituição sem fins lucrativos fundada em 1969 na Filadélfia, Estados Unidos.
+
+Estruturou o PMBOK (*Project Management Body of Knowledge*) que se baseia esta aula
+
+Certificações PMP (*Project Management Professional*), CAQ (*Certificate of Added Qualification*) para PMPs de certas indústrias como automotiva, e o CAPM (*Certified Associate in Project Management*)
+
+Existem milhares de associados e certificados no mundo e no Brasil
+
+## ABGP
+
+A Associação Brasileira de Gerenciamento de Projetos é uma entidade de âmbito nacional, sem fins lucrativos e de natureza privada que faz certificação, eventos, treinamentos, publicações
+
+Realiza a certificação ABGP/IPMA (*International Project Management Association*) com níveis A, B, C e D
+
+## Outras entidades
+
+- AACE: *Association for the Advancement of Cost Engineering
+- ISACA: *Information Systems Audit and Control Association*
+- PRMIA: *Professional Risk Managers' International Association*
+- IEEE Computer Society
+
+## Outras certificações
+
+- CISA: *Certified Information Systems Auditor*
+- CISM: *Certified Information Security Manager*
+- PRM: *Professional Risk Manager*
+
+# Software
+
+## Softwares de gerenciamento de projetos
+
+Task Tracking, WBS Chart Pro, PERT Chart EXPERT, MindManager 2002 Enterprise Edition, Microsoft Project 2002, Primavera TeamPlay, PMOffice, Open Project System (SAP), Rational Project Management, PS8, Tassc Estimator Manager 2001, Spider Project, Palisade @RISK for Project e Kidasa Milestones Professional 2006
+
+# Fomentando projetos de tecnologia da informação
+
+## Grupos
+
+Projetos estratégicos, de infraestrutura e de desenvolvimento de software
+
+## Projetos estratégicos
+
+- IT Governance
+- Modelagem de Processos Empresariais
+- Visão de Processos de Negócio
+- Melhoria e Redesenho de Processos
+- Gerenciamento de Processos
+- Pré-ERP
+
+## Infraestrutura
+
+- Inventário de hardware e software
+- Sistemas de restauração de informações (backups de servidores em geral: ban-
+- co de dados, e-mails, arquivos)
+- Distribuição ou instalação de software via rede
+- Sistemas de Help Desk
+- Sistemas de controle remoto para administração de servidores e estações
+- Sistemas de monitoramento de servidores em geral
+- Sistemas de segurança e antivírus
+- Sistemas de análise de performance em geral (servidores e links de redes)
+
+## Desenvolvimento de software
+
+- Administração de dados
+- Integração e customização de ferramentas CASE
+- Migração entre ferramentas CASE
+- Modernização de sistemas legados
+
+## Administração de dados
+
+Mecanismos para melhor tomar deciões usando *Data Warehouse* e *Business Intelligence*
+
+Sucesso está ligado a qualidade dos dados
+
+## Integração, customização e migração de ferramentas CASE
+
+Ferramentas CASE (*Computer-aided software engineering*) são desenvolvidas na TIA juntamente com administradores de dados e de banco de dados, envolve desenvolivmento de API (*Application Program Interface*) e linguagens de programação
+
+## Modernização de sistemas legados
+
+Sistemas legados como *mainframes* podem ser obstáculos para inovações como sistemas distribuídos
+
+Alguns pré requisitos são ter documentações, componentização dos serviços e regras de negócio, etapas de transformação de dados, mudança de interface de texto para GUI, uso de linguagens mais recentes, outros esquemas de dados
