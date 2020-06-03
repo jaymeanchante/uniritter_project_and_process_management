@@ -1,13 +1,10 @@
 PANDOC := pandoc -t beamer
-TARGETS = class1/slides.pdf class2/slides.pdf class3/slides.pdf class4/slides.pdf class5/slides.pdf
+TARGETS = pdf/1_class/1_class_introduction.pdf pdf/1_class/2_introduction_project_management.pdf
 
 all: $(TARGETS)
 
-class1/slides.pdf: class1/slides
-class2/slides.pdf: class2/slides
-class3/slides.pdf: class3/slides
-class4/slides.pdf: class4/slides
-class5/slides.pdf: class5/slides
+pdf/1_class/1_class_introduction.pdf: src/1_class/1_class_introduction.md
+pdf/1_class/2_introduction_project_management.pdf: src/1_class/2_introduction_project_management.md
 
 $(TARGETS):
 	$(PANDOC) $^ -o $@
