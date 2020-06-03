@@ -1,0 +1,9 @@
+# Incluir
+
+## Lista
+
+- Why we think Flutter will help us scale mobile development at Nubank  
+- pacote do R para Seis Sigma  
+- Como fazer uma matriz SWOT  
+- Programação para matemática financeira  
+- Vídeo sobre o caso Enron  
