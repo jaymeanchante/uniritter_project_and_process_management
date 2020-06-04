@@ -10,7 +10,7 @@ Tecnologia de informação, departamentos, economia e mercado, planejamento e go
 
 Ciclo, stakeholders, estruturas organizacionais
 
-Gerenciamento de qualidade, risco, rh, seis sigma, umpp
+Gerenciamento de qualidade, risco, RH, Seis Sigma, UMPP
 
 Particularidades de TI
 
@@ -21,10 +21,11 @@ A coleção de sistema de computação utilizado por uma empresa
 Dá suporte para os demais áreas da empresa
 
 Capacidades:
-- Realizar cálculos numéricos
-- Automatizar processos
-- Armazenar dados
-- Permitir comunicação e colaboração em qualquer lugar/momento
+
+- Realizar cálculos numéricos  
+- Automatizar processos  
+- Armazenar dados  
+- Permitir comunicação e colaboração em qualquer lugar/momento  
 
 ## TI e os demais departamentos
 
@@ -32,27 +33,23 @@ Capacidades:
 - Marketing
 - Operacional
 - RH
-
 - Área de atuação dos alunos?
 
 ## TI e a pressão externa
 
-- Pressão de mercado
+- Pressão de mercado: organiza times remotos, oferta produtos online, relacionamento com cliente
     - Mercado global de mão de obra
     - Mercado global de produtos
-TI permite organizar times remotos, ofertar produtos online, relacionar com clientes
 
-- Pressão de tecnologia
+- Pressão de tecnologia: mecanismos de busca, banco de dados, *data mining*
     - Inovação e obsolescência
     - Sobrecarga de informação
-TI permite a criação de mecanismos de busca, banco de dados, data mining
 
-- Pressão social
+- Pressão social: processos seletivos objetivos, gerenciamento de resíduos, detecção de doenças
     - Ética
     - Ambiental
     - Saúde
     - Segurança
-TI permite criar processos seletivos objetivos, gerenciamento de resíduos, detec'ão de doenças etc.
 
 ## Planejamento de sistemas de informação
 
@@ -83,9 +80,9 @@ Novos projetos são avaliados, selecionados e priorizados; projetos existentes s
 Método de priorização deve contemplar:
 
 - Alinhamento com a estratégia da organização
-- Importáncia explicitada de forma clara
+- Importância explicitada de forma clara
 - Processo flexível de priorização, simples e rápido
-- Sinergias entre projetos
+- Sinergia entre projetos
 
 ## Priorização estratégica de projetos
 
@@ -95,7 +92,7 @@ Complexidade vs Importância
 
 ## COBIT
 
-Control Objectives for Information related Technology. Diz o que deve ser feito. Os conceitos, metodologias e ferramentas de mercado cuidam de como fazer, tais como: ITIL, Six Sigma, PMI, BSC, CMM, Unified Process, Benchmarking
+*Control Objectives for Information related Technology*. Diz o que deve ser feito. Os conceitos, metodologias e ferramentas de mercado cuidam de como fazer, tais como: ITIL, *Six Sigma*, PMI, BSC, CMM, *Unified Process*, *Benchmarking*
 
 ## Conceito
 
@@ -114,7 +111,7 @@ Além disso, são definidos 34 processos e 318 objetivos de controle para dar um
 
 - Efetividade
 - Eficiência
-- Conformidade/compliance
+- Conformidade/*compliance*
 - Confiabilidade
 - Confidencialidade
 - Integridade
@@ -126,11 +123,11 @@ COBIT trata do que deve ser feito, não do como. Independente da metodologia, os
 
 Levantamento da situação atual -> análise e diagnóstico -> desenho da situação desejada -> implementação -> monitoramento
 
-COBIT auxilia a estruturação de levantamento, entendimento, gap nalysis, acompanhamento da implementação e monitoramento dos processos
+COBIT auxilia a estruturação de levantamento, entendimento, *gap nalysis*, acompanhamento da implementação e monitoramento dos processos
 
 ## ITIL
 
-Information Technology Infrastructure Library é um modelo referência para gerenciamento de processos de TI aceito mundialmente
+*Information Technology Infrastructure Library* é um modelo referência para gerenciamento de processos de TI aceito mundialmente
 
 Criado pela secretaria de comércio da Inglaterra
 
@@ -153,7 +150,6 @@ Descreve os processos necessários para gerenciar a infraestrutura de TI eficien
 Alguns dos processos e módulos são:
 
 - Service support: service desk, incedent management, problem management, configuration management, change management, release management
-
 - Service delivery: service level management, finance management, capacity management, continuity management, availability management
 
 ## Sarbanes-Oxley
@@ -168,7 +164,7 @@ Seção 404 do ato fala sobre a manutenção de controles internos, processos pa
 
 Segurança de rede e uso de aplicações terceirizadas por companhias abertas: invasões, ataques, vírus, roubo de dados, fraudes de senhas podem implicar responsabilidade dos administradores se não houver prova de adoção de medidas preventivas
 
-Segurança dos sistemas de informação - ERP, CRM, Supply Chain Management, banco de dados - devem estar em sintonia com a lei. Questão do outsourcing
+Segurança dos sistemas de informação - ERP, CRM, *Supply Chain Management*, banco de dados - devem estar em sintonia com a lei. Questão do *outsourcing*
 
 # Projeto
 
@@ -192,7 +188,7 @@ Entrada de dados numa planilha de folha de pagamentos todo mês
 
 Continuidade
 
-Projetos são temporários. E.g. implementação de um novo processo de folha
+Projetos são temporários. *E.g.* implementação de um novo processo de folha
 
 # História do gerenciamento de projetos
 
@@ -200,7 +196,7 @@ Projetos são temporários. E.g. implementação de um novo processo de folha
 
 EUA com objetivo de construir a bomba atômica
 
-US$ 2 bi
+US$ 2 bilhões de orçamento
 
 Primavera de 1942
 
@@ -220,7 +216,7 @@ Ferramentas como PERT, reuniões executivas semanais
 
 NASA
 
-Capacitação dos fornecedores
+Capacitação dos fornecedores espraiou pelo mundo técnicas de gerenciamento
 
 ## Projeto da internet mundial
 
@@ -228,7 +224,9 @@ Nasceu em 1969 para interligar centros de pesquisa
 
 ARPAnet: Advanced Research Projects Agency
 
-Não há um agente central, unindo inicialmente laboratórios e universidades 
+Não há um agente central
+
+Unindo inicialmente laboratórios e universidades 
 
 Protocolo TCP/IP - Transmission Control Protocol/Internet Protocol 
 
@@ -258,19 +256,23 @@ Objetivo de pesquisa, ensino e extensão
 
 Henry Gantt desenvolveu o famoso diagrama em 1917
 
-![Exemplo de diagrama de Gantt](images/class1/01_gantt.png){ width=250px }
+![Exemplo de diagrama de Gantt](images/1_class/gantt.jpeg){ width=250px }
+
+[comment]: # (source: https://i.ytimg.com/vi/JHCZaRcYHpU/maxresdefault.jpg)
 
 ## Diagrama de redes
 
 Usado pela primeira vez em 1958 pela Marinha americana
 
-![Exemplo de diagrama de rede](images/class1/02_web_diagram.png)
+![Exemplo de diagrama de rede](images/1_class/network_diagram.png)
+
+[comment]: # (source: https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2016Q4/ProjectNetworkDiagram.png)
 
 ## Gerenciamento de projetos a partir de 1970
 
 Militares começaram a usar softwares
 
-Rodavam em mainframes
+Rodavam em *mainframes*
 
 Artemis foi um dos primeiros programas utilizados
 
@@ -342,7 +344,7 @@ Exemplo: desenvolveruma aplicação para automatizar vendas; interessante ter co
 
 ## Principais contextos
 
-Ciclo de vida, envolvidos, inflência das organizações, habilidade do gerente de projetos, influências sócio-econômicas
+Ciclo de vida, envolvidos, influência das organizações, habilidade do gerente de projetos, influências socioeconômicas
 
 ## Ciclo de vida
 
@@ -406,7 +408,9 @@ Encerramento: formaliza a aceitação do projeto
 
 ## Interação dos processos
 
-![Interação dos processos](images/class1/03_interacao_processos.png)
+![Interação dos processos](images/1_class/03_interacao_processos.png){ width=250px }
+
+[comment]: # (source: MARCONI, F. V. Gerenciamento de Projetos de Tecnologia da Informação. Elsevier, 2007.)
 
 # Gerente de projeto
 
@@ -445,7 +449,9 @@ Conhecido pelo seu livro Guide to Quality Control
 
 Utilização do diagrama de espinha de peixe
 
-![Diagrama de Ishikawa](images/class1/04_diagrama_ishikawa.png)
+![Diagrama de Ishikawa](images/1_class/ishikawa_diagram.png){ width=350px }
+
+[comment]: # (source: MARCONI, F. V. Gerenciamento de Projetos de Tecnologia da Informação. Elsevier, 2007.)
 
 # Modelos de maturidade
 
@@ -461,7 +467,7 @@ Inicia-se com a especificação de requisitos, documentação das necessidades d
 
 ## CMM - Capability Maturity Model
 
-Criado pela universidade Carnegie Mallon
+Criado pela universidade Carnegie Mellon
 
 Cinco níveis
 
@@ -493,7 +499,7 @@ Além da ISO 9000, há normas específicas para TI:
 
 ## ABNT - Subcomitê de software - SC-21:10
 
-Organismo vinculado a ABNT e organizações públicas do Paraná
+Organismo vinculado à ABNT e organizações públicas do Paraná
 
 Formalizado em 1992 com a CELEPAR (Companhia de Informática do Paraná) e outros
 
@@ -528,7 +534,7 @@ Custos (in)tangíveis: custos (dificil)facilmente mensuráveis em termos monetá
 ## Conceitos
 
 Custos intangíveis: estudos, pesquisas; difíceis de justificar mas que devem ser comentados para valorizar a equipe perante o cliente  
-Custos afundados: custo incorrido no passado que não pode ser desfeito, e.g. propaganda, pesquisa, manutenção  
+Custos afundados: custo incorrido no passado que não pode ser desfeito, *e.g.* propaganda, pesquisa, manutenção  
 Curva de aprendizado: custo vai reduzindo ao longo do tempo pela repetição
 
 # Gestão de riscos
@@ -543,10 +549,10 @@ Caso do coronavírus
 
 ## Estágios
 
-Identificar: todos são responsáveis, elimina surpresas  
-Analisar: classificar os riscos
-Avaliar: priorizá-los
-Tratar: implantar medidas para evitar ou reduzir riscos
+- Identificar: todos são responsáveis, elimina surpresas  
+- Analisar: classificar os riscos
+- Avaliar: priorizá-los
+- Tratar: implantar medidas para evitar ou reduzir riscos
 
 ## Risco de cronograma
 
@@ -556,7 +562,7 @@ Como administrar atrasos e como recuperá-los depois
 
 Cenário pessimista, otimista e provável
 
-# Seis Sigma
+# Six Sigma
 
 ## Conceito
 
@@ -566,13 +572,13 @@ Um processo seis sigma é aquele em que 99,9996% das possibilidades de produzir 
 
 ## Hierarquia
 
-Um executivo é responsável pelo Seis Sigma, ele deve selecionar os "Campeões" que vão incentivar projetos de melhoria ou redução de custo e apontar os "Faixas Pretas" que irão liderar os projetos e se dedicam 100% ao Seis Sigma
+Um executivo é responsável pelo Six Sigma, ele deve selecionar os "Campeões" que vão incentivar projetos de melhoria ou redução de custo e apontar os "Faixas Pretas" que irão liderar os projetos e se dedicam 100% ao Seis Sigma
 
-Às vezes há a figura do *Master Black Belt* que assessora os *Champions*, os "Faixas Verdes" que dedicam parte de seu tempo aos projetos Seis Sigma
+Às vezes há a figura do *Master Black Belt* que assessora os *Champions*, os "Faixas Verdes" que dedicam parte de seu tempo aos projetos Six Sigma
 
 ## DMAIC
 
-Existem 5 fases para obter o desempenho Seis Sigma em um processo/divisão/empresa: *define*, *measure*, *analyse*, *improve* e *control*
+Existem 5 fases para obter o desempenho Six Sigma em um processo/divisão/empresa: *define*, *measure*, *analyze*, *improve* e *control*
 
 Definição são identificados os projetos que serão desenvolvidos  
 Mensuração são identificados as Variáveis de Entrada/Saída de Processos Chave  
@@ -611,7 +617,7 @@ Delegação formal do gerente de projetos para coordenar o projeto
 
 ## Gerenciamento de Escopo
 
-Escopo é todo trabalho envolvido na criação dos produtos do projeto e os processos utilizados para cri-a-los, e deve ser baseado nos requisitos e necessidades do cliente ou usário
+Escopo é todo trabalho envolvido na criação dos produtos do projeto e os processos utilizados para criá-los, e deve ser baseado nos requisitos e necessidades do cliente ou usário
 
 Formalização através de um documento
 
@@ -619,7 +625,7 @@ Qualquer modificação deve passar pro um processo de avaliação de impactos, a
 
 ## Gerenciamento do Tempo
 
-Cronograma é uma fonte comum de conflito (e.g. priorização)
+Cronograma é uma fonte comum de conflito (*e.g.* priorização)
 
 Tempo é facilmente medido (prazo final de entrega), enquanto escopo é muitas vezes flexível e subjetivo
 
@@ -657,12 +663,21 @@ Envolvimento da TI com outros departamentos: vocabulários, jargões, problemas 
 
 ## Estudo das habilidades mais buscadas pelo LinkedIn
 
+![Habilidades mais procuradas 2020](images/1_class/linkedin_skills.jpg)
+
+[comment]: # (source: https://content.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/01/top-hard-and-soft-skills-2020-725.jpg)
+
 ## Gerenciamento de Riscos
 
 Riscos de pessoas, tecnológico, de mercado, financeiro
 
 ## Estudo de adoção de tecnologia do Nubank
 
+Recursos disponíveis são **[post em português](https://medium.com/flutter-comunidade-br/porqu%C3%AA-n%C3%B3s-achamos-que-flutter-vai-nos-ajudar-a-escalar-o-desenvolvimento-mobile-no-nubank-95d07b4554d7)**, **[post em inglês](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)** e o **[pdf](https://cdn.nubank.com.br/mobile/taskforce/nubank-mobile-architecture-task-force-mission-report.pdf)**
+
+![Capa do documento](images/1_class/nubank_report.png){ width=300px }
+
+[comment]: # (source: https://cdn.nubank.com.br/mobile/taskforce/nubank-mobile-architecture-task-force-mission-report.pdf)
 
 ## Gerenciamento das Aquisições
 
@@ -789,7 +804,9 @@ Estrutura orientada à entrega do trabalho a ser conduzido pela equipe
 
 Define de forma visual o escopo total do projeto e subdivide o trabalho em partes menores, possibilitando melhor gerenciamento e entendimento
 
-![Exemplo de estrutura analítica de projeto](images/class1/wbs.png)
+![Exemplo de estrutura analítica de projeto](images/1_class/wbs.png){ width=250px }
+
+[comment]: # (source: https://www.pmwares.com/wp-content/uploads/2019/04/09-01a-WBS-with-project-phases-at-top-level.png)
 
 ## Definicação da atividade (6.1)
 
