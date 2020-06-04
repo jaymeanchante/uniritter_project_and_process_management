@@ -33,7 +33,7 @@ Aborda conteúdos relacionados às terminologias básicas de gestão de projetos
 
 ## Encontros
 
-Das 18:30 às 22:00 
+Horário das 18:30 às 22:00
 
 1. 8 de junho
 2. 10 de junho
@@ -43,7 +43,25 @@ Das 18:30 às 22:00
 
 ## Tópicos
 
+* Gestão de projetos "clássica"
+* Gestão de projetos de software
+* Atores num projeto de software
+* Gestão de projetos de ciência de dados
+
 ## Avaliação
 
-* 1 trabalho no dia 10 de junho para enviar até o dia 15 de junho
-* 1 trabalho no dia 17 de junho para enviar até o dia 22 de junho
+* um trabalho ao final de cada aula com até três dias para envio
+
+OU
+
+* um projeto que será explicado no último dia de aula com até sete dias para envio
+
+## Presença
+
+Entrar nas aulas remotas pelo portal do aluno para que sua presença seja contabilizada automaticamente
+
+Uma lista de presença será passada durante a aula para quem entrou no link de convidado (não fornecer o link da aula para amigos, familiares ou outras pessoas
+
+## Formato
+
+O curso de especialização em Data Science é presencial, mas devido a pandemia do Covid-19 as aulas estão acontecendo remotamente, mas ainda de forma síncrona
