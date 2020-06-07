@@ -243,9 +243,37 @@ Alguns dos processos e módulos são:
 - Service support: service desk, incedent management, problem management, configuration management, change management, release management
 - Service delivery: service level management, finance management, capacity management, continuity management, availability management
 
+## Enron - ascensão
+
+É uma empresa americana fundada em 1985 que atuava nos setores de energia, *commodities* e serviços.
+
+Registrou receitas na ordem de US$ 101 bilhões em 2000 e foi "America's Most Innovative Company" da Fortune Magazine por seis anos consecutivos.
+
+![Enron](images/1_class/enron_fortune.png){ width=150px }
+
+[comment]: # (source: https://www.youtube.com/watch?v=hwollZoVmUc)
+
+## Enron - decadência
+
+A situação se devia a fraudes na contabilidade de forma sistêmica e institucionalizada: contabilização de rendas não realizadas, dívidas em empresas controladas
+
+Entrou em bancarrota no final de 2001 e foi encerrada em 2004
+
+A empresa de contabilidade Arthur Andersen foi dissolvida (antes era uma das *Big Five* junto com PwC, Deloitte, EY e KPMG)
+
+## Enron - legado
+
+O [Dataset de emails da Enron](https://www.cs.cmu.edu/~./enron/) contém mensagens de 150 pessoas da gestão sênior da Enron com cerca de meio milhão de mensagens
+
+Ato Sarbanes-Oxley de 2002
+
+![Enron](images/1_class/enron_dataset.png){ width=150px }
+
+[comment]: # (source: https://www.kaggle.com/wcukierski/enron-email-dataset)
+
 ## Sarbanes-Oxley
 
-Ato de 2002 em resposta aos escândalos financeiros de empresas dos EUA como Enron, WorldCom, Tyco e Arthur Andersen
+Ato de 2002 em resposta aos escândalos financeiros de empresas dos EUA como Enron, WorldCom (telefonia), Tyco (produtos de segurança) e Arthur Andersen
 
 Estabelece novos padrões de responsabilidade contábil corporativa: responsabilização e participação direta do CEO e CFO pelas divulgações da empresa, multas e sanções penais estendidas aos auditores
 
@@ -268,6 +296,8 @@ US$ 2 bilhões de orçamento
 Primavera de 1942
 
 General Leslie Groves liderou cientistas, engenheiros
+
+[Vídeo explicativo (até o minuto 4)](https://www.youtube.com/watch?v=3QTMa8rghN0)
 
 ## Projeto Polaris
 
@@ -308,6 +338,8 @@ Tim Berners-Lee para acessar documentos científicos
 Criação do Mosaic, primeiro navegador com interface gráfica
 
 http - Hipertext Transfer Protocol, hipertexto com imagens e links
+
+[Vídeo TED sobre a *world wide web*](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 
 ## Projeto Internet no Brasil
 
