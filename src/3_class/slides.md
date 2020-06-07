@@ -17,6 +17,12 @@
 
 # PO
 
+## Conceito
+
+## Qual a diferença entre PMO e PO?
+
+[Vídeo](https://www.youtube.com/watch?v=d_1ojtNbIys) da Lemonade School
+
 # PMO
 
 # Scrum master
