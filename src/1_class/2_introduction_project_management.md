@@ -267,7 +267,7 @@ O [Dataset de emails da Enron](https://www.cs.cmu.edu/~./enron/) contém mensage
 
 Ato Sarbanes-Oxley de 2002
 
-![Enron](images/1_class/enron_dataset.png){ width=150px }
+![Enron](images/1_class/enron_dataset.png){ width=300px }
 
 [comment]: # (source: https://www.kaggle.com/wcukierski/enron-email-dataset)
 
