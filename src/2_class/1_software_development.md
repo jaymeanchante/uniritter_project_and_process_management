@@ -176,3 +176,142 @@ Processo de criar uma especificação de um artefato de software para alcançar 
 Etapa após os requisitos e antes da programação em si
 
 Envolve tanto parte de baixo nível de componentes e algoritmos como alto nível de arquitetura
+
+## Análise dos requisitos
+
+Se o software for semiautomatizado ou centrado no usuário, ele precisará de um design de experiência do usuário que resultará num *storyboard*
+
+Se o software for completamente automatizado, pode um gráfico de fluxo ou um simples texto descrevendo as etapas
+
+## Unified Modeling Language
+
+É uma linguagem de modelagem de propósito geral que provê uma forma padrão de visualizar o design de sistemas
+
+![UML](images/2_class/uml_publish.jpeg){ width=150px }
+![UML](images/2_class/uml_db.png){ width=250px }
+
+[comment]: # (source: https://tallyfy.com/wp-content/uploads/2018/02/Activity-Diagram.jpeg)
+
+[comment]: # (source: https://creately.com/blog/wp-content/uploads/2012/02/UML-Class-Diagram-Example.png)
+
+## Fundamental modeling concepts
+
+Paradigma para descrever sistemas de software.
+
+*Agentes* são componentes ativos do sistema (retângulos). *Armazéns* são componentes passivos (formas curvas). Agentes se comunicam via *canais* (linhas e setas).
+
+![FMC](images/2_class/fmc.png){ width=120px }
+
+[comment]: # (source: https://en.wikipedia.org/wiki/File:FMCBlockDiagram.png)
+
+## Análise de software
+
+Consiste em reduzir o software em problemas menores para resolver
+
+A análise não deve diferir muito entre pessoas da mesma equipe ou entre grupos
+
+Já design de software é mais subjetivo e vários designs para o mesmo problema podem coexistir
+
+## Processo e modelagem
+
+Design do processo é a sequencia de passos para descrever todos os aspectos da construção do software
+
+A modelagem pode ser comparada ao plano do arquiteto para uma casa (começa com uma representação alto nível 3D, depois vai ganhando detalhes). O modelo oferece diversas visões do software
+
+## Considerações
+
+* Considerar abordagens alternativas
+* Paralelo entre o design e os requisitos
+* Não deve "reinventar a roda"
+* Estar preparado para acomodar mudanças
+* Design não é codar, e codar não é design
+* A qualidade do deisgn deve ser julgado no momento da criação, não depois
+
+## Conceitos
+
+* Abstração
+* Modularidade
+* Arquitetura
+* Hierarquia
+* Estrutura de dados
+
+# Construção
+
+## Conceito
+
+É a disciplina que reuni codificação, verificação, teste unitário, teste de integração e debugging
+
+## Fundamentos
+
+* Minimazar complexidade
+* Antecipar mudanças
+* Construção para verificação
+* Código reutilizável
+* Utilizar padrões (da linguagem, da equipe, da plataforma)
+
+## Linguagens
+
+* Configuração: linguagem com um conjunto finito de opções para criar ou configurar um instalação. E.g. arquivos em /etc do Unix
+* Toolkit: usados para criar aplicações um pouco mais complexas. E.g. GTK+, Qt
+* Scripting: linguagens interpretadas em vez de compiladas, tem um propósito específico. E.g. awk, sed
+* Programação: mais flexível e completa
+
+## Técnicas de codificação
+
+* Código fonte legível, utilizando nome de variáveis significativos (podem ser longos)
+* Usar classes, tipos, variáveis, constantes e outras entidades
+* Controle de fluxo: não utilizar muitos níveis em laços para melhorar a leitura e a propensão ao erro
+* Lidar com erros e exceções
+* Uso de recurso de forma eficiente, usando threads, locks em banco de dados
+* Organização em classes, pacotes, bibliotecas
+* Documentação no código
+
+## Testes de construção
+
+* Teste unitário: testa uma seção da aplicação (função, método, classe)
+* Teste de integração: as várias unidades são combinadas e testadas conjuntamente
+
+# Testes
+
+## Conceito
+
+Investigação para prover os stakeholders de informação sobre a qualidade do software
+
+Visão objetiva e independente
+
+Verificar se atende os requisitos e o design de construção, responde corretamente frente a inputs, performa dentro do tempo esperado, pode ser instalado e rodada nos ambientes e sistemas
+
+## Limitações
+
+Determinam o correto funcionamento sob certas hipóteses, não consegue identificar todos os defeitos
+
+As condições podem ser as especificações dos requisitos, contratos, comparação com outros produtos, versões passadas do mesmo produto, inferência sobre o comportamento esperado, expectativas do usuário
+
+## Cargo
+
+Inicialmente o tester era uma habilidade dos programadores, hoje é muitas vezes um cargo a parte
+
+Algumas nomenclaturas são: tester, analista de testes, designer de testes, desenvolvedor de automação, quality assurance (QA)
+
+## Tipos
+
+* Estáticos: code reviews, passo a passo (quem escreveu o código explica seu funcionamento ao tester), inspecionamento
+* Dinâmico: execução de software para testes de caso
+
+## Caixa transparente
+
+Verifica as estruturas internas do programa, also inacessível para o usuário final
+
+Tester escolhe certos inputs que irão fluir para um certo caminho e serão determinados e comparados os outputs
+
+Teste de APIs, cobertura de código, resistência a falhas
+
+## Caixa opaca
+
+Examinam a funcionalidade sem saber nada do código fonte
+
+Muitas vezes os testes de caso são necessários
+
+Não necessita de conhecimentos de programação, como testes visuais
+
+##
