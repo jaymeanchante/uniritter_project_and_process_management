@@ -54,7 +54,7 @@ Horário das 18:30 às 22:00
 | :--- | ------------------------------------------------------------: |
 | 80%  |   um trabalho ao final das 4 primeiras aulas com até três dias para envio  OU  um projeto que será explicado no último dia de aula com até sete dias para envio   |
 |      |           |
-| 20%  |   participação em aula com voz e vídeo pelo menos uma vez fazendo: uma pergunta elaborada; colocação relevante; história ilustrando um conceito   |
+| 20%  |   participação com voz e vídeo pelo menos uma vez por aula fazendo: uma pergunta elaborada; colocação relevante; história ilustrando um conceito   |
 
 ## Presença
 
