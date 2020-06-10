@@ -50,11 +50,11 @@ Horário das 18:30 às 22:00
 
 ## Avaliação
 
-* um trabalho ao final de cada aula com até três dias para envio
-
-OU
-
-* um projeto que será explicado no último dia de aula com até sete dias para envio
+| nota |                           tarefa                              |
+| :--- | ------------------------------------------------------------: |
+| 80%  |   um trabalho ao final das 4 primeiras aulas com até três dias para envio  OU  um projeto que será explicado no último dia de aula com até sete dias para envio   |
+|      |           |
+| 20%  |   participação em aula com voz e vídeo pelo menos uma vez fazendo: uma pergunta elaborada; colocação relevante; história ilustrando um conceito   |
 
 ## Presença
 
