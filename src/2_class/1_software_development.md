@@ -23,7 +23,7 @@ A necessidade de melhor controle de qualidade no desenvolvimento de software fez
 * Desenvolvedor de software: precisa entender de todas as fases do desenvolvimento de software, não apenas a implementação
 * Engenheiro de software: um desenvolvedor de software com um grau de educação formal e/ou muita experiência, escrita em muitas linguagens, habilidades em arquitetura, modularização, scaling, 
 
-Mais destas definições nessa [thread no Reddit](https://www.reddit.com/r/startups/comments/2qidxf/coder_vs_developer_vs_programmer_vs_software/)
+Mais destas definições nessa **[thread no Reddit](https://www.reddit.com/r/startups/comments/2qidxf/coder_vs_developer_vs_programmer_vs_software/)**
 
 ## Atividades principais
 
@@ -243,7 +243,7 @@ A modelagem pode ser comparada ao plano do arquiteto para uma casa (começa com 
 
 ## Fundamentos
 
-* Minimazar complexidade
+* Minimizar complexidade
 * Antecipar mudanças
 * Construção para verificação
 * Código reutilizável
@@ -314,4 +314,69 @@ Muitas vezes os testes de caso são necessários
 
 Não necessita de conhecimentos de programação, como testes visuais
 
-##
+## Testes Alpha, Beta
+
+* Alpha: uso por alguns clientes/usuários potenciais ou um time de testes independente, pessoas dentro da organização
+* Beta: depois do alpha, uma audiência limitada de pessoas têm acesso a aplicação
+
+## Testes automatizados
+
+Oposto de testes manuais
+
+Necessário em um ambiente com integração contínua: software passa por uma bateria de testes cada vez que uma mudança é feita num sistema de versionamento de código
+
+# Debugging
+
+## Conceito
+
+Processo de encontrar e resolver problemas em um programa
+
+## Origem do termo
+
+A Almirante nos anos 1940 estava trabalhando num computador Mark II em Harvard encontrou uma traça presa no computador impedindo seu funcionamento
+
+Debugging significa remover insetos
+
+![Grace Hopper](images/2_class/grace_hopper.jpg){ width=150px }
+
+[comment]: # (source: https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
+
+## Processo
+
+Reproduzir o bug, às vezes não é trivial. Programa rodando em paralelo, programas específicos do ambiente de origem, histórico de uso
+
+Simplificação dos inputs
+
+Usar um debugger que examina os estados (variáveis, chamadas) ou um rastreamento simples (usar "prints")
+
+# Implantação/deployment
+
+## Conceito
+
+Processo de fazer com que o software se torne disponível para uso
+
+## Atividades
+
+Lançamento/release segue um processo de desenvolvimento completo
+
+(Des)Instalação e (in)ativação envolve estabelecer um comando ou atalho para (remover) executar o software
+
+Atualização e atualização embutida
+
+Rastreamento de versão ajuda o usuário a encontrar e instalar as aplicações
+
+## Papéis
+
+Envolve diversas pessoas do time, sendo liderados pela figura do DevOps, também o engenheiro de software responsável/líder, gestor, administração de sistemas e o administrador de banco de dados
+
+# Manutenção
+
+## Conceito
+
+Modificações que ocorrem após a entrega do software para corrigir falhas ou melhorar a performance ou outras características
+
+## Importância
+
+Garantia para o consumidor que o software será revisado
+
+Software open source é de código aberto mas pode não ter uma empresa responsável (legalmente) - é da comunidade. Empresas querem garantias, SLAs (service level agreement)
