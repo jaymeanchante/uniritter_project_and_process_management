@@ -1,6 +1,6 @@
 % Aula 2 - Exercício
 % Jayme Anchante
-% 10 de junho de 2020
+% 13 de junho de 2020
 
 # Exercício
 

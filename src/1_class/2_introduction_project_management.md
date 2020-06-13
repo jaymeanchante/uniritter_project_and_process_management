@@ -1,6 +1,6 @@
 % Aula 1 - Introdução ao gerenciamento de projetos
 % Jayme Anchante
-% 8 de junho de 2020
+% 12 de junho de 2020
 
 # Conceitos iniciais
 

@@ -1,6 +1,6 @@
 % Aula 1 - Apresentação da disciplina
 % Jayme Anchante
-% 8 de junho de 2020
+% 12 de junho de 2020
 
 # Apresentação pessoal
 
@@ -32,13 +32,13 @@ Aborda conteúdos relacionados às terminologias básicas de gestão de projetos
 
 ## Encontros
 
-Horário das 18:30 às 22:00
+Horário das 18:30 às 22:00 nas sextas-feiras e 08:30 às 12:10 nos sábados
 
-1. 8 de junho
-2. 10 de junho
-3. 15 de junho
-4. 17 de junho
-5. 22 de junho
+1. 12 de junho de 2020
+2. 13 de junho de 2020
+3. 19 de junho de 2020
+4. 20 de junho de 2020
+5. 26 de junho de 2020
 
 ## Tópicos
 
@@ -72,4 +72,4 @@ Uma lista de presença será passada durante a aula para quem entrou no link de 
 
 ## Formato
 
-O curso de especialização em Data Science é presencial, mas devido a pandemia do Covid-19 as aulas estão acontecendo remotamente, mas ainda de forma síncrona
+O curso de especialização é presencial, mas devido a pandemia do Covid-19 as aulas estão acontecendo remotamente, mas ainda de forma síncrona
