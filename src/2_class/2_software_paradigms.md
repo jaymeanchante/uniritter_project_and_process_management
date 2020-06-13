@@ -231,10 +231,10 @@ Em 2001, um grupo de 17 desenvolvedores de software se reuniram em Utah para pub
 software, fazendo-o nós mesmos e ajudando outros a
 fazerem o mesmo. Através deste trabalho, passamos a valorizar:
 
-Indivíduos e interações mais que processos e ferramentas
-Software em funcionamento mais que documentação abrangente
-Colaboração com o cliente mais que negociação de contratos
-Responder a mudanças mais que seguir um plano
+Indivíduos e interações mais que processos e ferramentas  
+Software em funcionamento mais que documentação abrangente  
+Colaboração com o cliente mais que negociação de contratos  
+Responder a mudanças mais que seguir um plano  
 
 Ou seja, mesmo havendo valor nos itens à direita,
 valorizamos mais os itens à esquerda.
