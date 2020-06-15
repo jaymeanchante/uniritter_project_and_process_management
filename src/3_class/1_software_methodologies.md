@@ -748,3 +748,99 @@ O livro Essential Kanban Condensed acrescenta: fazer políticas explícitas, con
 ![Quadro de Kanban](images/3_class/kanban_board.png){ width=300px }
 
 [comment]: # (source: https://cdn.vertex42.com/ExcelTemplates/Images/todolists/agile-pm-kanban-board.png)
+
+# Disciplined Agile Delivery
+
+## Conceito
+
+Construção a partir de diversas práticas ágeis como scrum, lean, kanban e outros
+
+As metodologias do ágil focam em uma parte das atividades necessárias para entregar o proeto, em vez de cada empresa criar o seu ágil juntando as partes, o DAD oferece uma proposta metodologia completa que une as partes e preenche os vazios
+
+## História
+
+A primeira iteração o DAD foi criada em 2015, desde então novas iterações foram feitas para revisar e adicionar metodologias e tecnologias, como DevOps
+
+O DAD tem como referência o livro "Choose You WoW! A Disciplined Agile Delivery Handbook for Optimizing Your Way of Working" de Scott Ambler e Mark Lines
+
+Em agosto de 2019, o Project Management Institute comprou o DAD
+
+## Princípios chave
+
+* Pessoas primeiro: pessoas e suas interações são o fator determinante de sucesso
+* Hibridização: adoção de diversas práticas ágeis
+* Ciclo completo de entrega: não foca apenas na construção
+* Completo: mostra como desenvolver, modelar, criar arquitetura, gerenciamento, requisitos, documentação, governança
+* Contextual: abordagem focada no resultado e não uma prescrição de práticas
+* Soluções consumíveis em detrimento de software funcionando: software ainda é um entregável importante, mas o foco deve ser mais holístico, como hardware, processos de negócio, estrutura organizacional
+* Auto organização com governança
+
+## Ciclo
+
+Apoia disciplinas ágeis baseadas no scrum e no lean baseadas no kanban
+
+1. Agile: três fases sendo inception (sprint 0), construção e transição (sprint de entrega)
+2. Lean: três fases baseadas no kanban
+3. Entrega contínua ágil: fluxo contínuo de trabalho incremental com entregáveis frequentes
+4. Entrega contínua lean: fluxo contínuo de trabalho lean
+5. Exploração: fase experimental baseada no conceito de *lean startup* e *minimum viable product*
+6. Programação: ciclo para coordenação da equipe
+
+## Objetivos
+
+Existem 21 objetivos divididos em 4 fases: inception, construção, transição e objetivos continuados
+
+## Inception
+
+* Formar a equipe
+* Alinhar  com objetivos de negócio
+* Visão comum de projeto
+* Explorar escopo
+* Estratégia de arquitetura
+* Planejar o lançamento
+* Estratégia de teste
+* Visão comum geral
+* Garantir o financiamento
+
+## Construçao
+
+Construir uma solução incremental
+
+* Aprovar a arquitetura
+* Acomodar mudanças de necessidade de stakeholders
+* Produzir solução consumível
+* Melhorar qualidade
+* Acelerar entrega de valor
+
+## Transição
+
+Lançar a solução em produção
+
+* Garantir a prontidão em produção
+* Implantar a solução em produção
+
+## Objetivos continuados
+
+Melhorar e trabalhar de uma forma organizacional
+
+* Desenvolver membros da equipe
+* Coordenar atividades
+* Gerenciar riscos
+* Evoluir o WoW
+* Alavancar a infraestrutura
+* Governança de entregas
+
+## Papéis
+
+* Stakeholder
+* Dono do produto
+* Membro da equipe
+* Líder da equipe: além de líder é o coordenador das práticas ágeis
+* Dono da arquitetura: define as decisões de arquitetura e facilita a criação e evolução de um design
+
+## Papéis potenciais
+
+* Expert no domínio: PO representa um cliente no geral, talvez seja necessário alguém com uma expertise mais refinada
+* Experts técnicos: administradores de banco de dados, experiência do usuário (UX), experts em segurança
+* Tester independente
+* Integrador
