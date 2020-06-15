@@ -13,8 +13,9 @@
 * Crystal Clear, 1996
 * Extreme Programming (XP), 1996
 * Feature-driven development, 1997
-
-ASD DevOps DAD DSDM FDD IID Kanban Lean SD LeSS MDD MSF PSP RAD RUP SAFe Scrum SEMAT TSP OpenUP UP XP
+* Lean, 2003
+* Kanban, 2010
+* Disciplined Agile Delivery, 2015
 
 # Rapid Application Development
 
