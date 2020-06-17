@@ -1,6 +1,6 @@
-% Aula 3 - Papéis
+% Aula 4 - Papéis
 % Jayme Anchante
-% 15 de junho de 2020
+% 17 de junho de 2020
 
 # Papéis
 
@@ -10,27 +10,7 @@
 - Scrum master
 - Cientista de dados
 - Engenheiro de dados
-- Desenvolvedores
+- Desenvolvedores (backend, frontend, linguagens específicas)
+- Analista de dados
+- Business Inteligence
 - Customer success
-
-# Business developer
-
-# PO
-
-## Conceito
-
-## Qual a diferença entre PMO e PO?
-
-[Vídeo](https://www.youtube.com/watch?v=d_1ojtNbIys) da Lemonade School
-
-# PMO
-
-# Scrum master
-
-# Cientista de dados
-
-# Engenheiro de dados
-
-# Desenvolvedor
-
-# Customer success
