@@ -1,8 +1,7 @@
-% Aula 4 - Convidados
+% Aula 3 - Convidados
 % Jayme Anchante
-% 17 de junho de 2020
+% 19 de junho de 2020
 
 # Convidados
 
-- Frederico Horst
-- Dani Felini
+- Anderson Camargo
