@@ -4,7 +4,7 @@
 
 # Software para gerenciamento de projeto de ciência de dados
 
-## Stack básico para ciência de dados
+# Stack inicial para ciência de dados
 
 ## Python
 
@@ -43,7 +43,7 @@
 * tensorflowhub, pytorchhub
 * sklearn - choosing the right estimator
 
-## scikit-learn: escolhendo o estimator cert
+## scikit-learn: escolhendo o estimator certo
 
 A biblioteca scikit-learn oferece uma miríade de estimador
 
