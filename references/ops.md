@@ -1,5 +1,0 @@
-* [Pachyderm](https://www.pachyderm.com/)
-* [DVC](https://dvc.org/)
-* [Datmo](https://github.com/datmo/datmo)
-* [KubeFlow](https://www.kubeflow.org/)
-* [MLflow](https://mlflow.org/)
