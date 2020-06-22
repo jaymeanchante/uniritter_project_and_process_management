@@ -4,11 +4,18 @@
 
 # Projeto final
 
+## Índice
+
+1. Contexto
+2. Tarefa
+3. Atividades
+4. Formato de entrega
+
 ## Contexto
 
-A startup Vision AI LLC está desenvolvendo uma nova tecnologia de visão computacional que é capaz de aferir o nível de engajamento de um consumidor com os produtos de uma loja por meio do reconhecimento das expressões dos clientes (como surpresa, alegria, desprezo, insatisfação).O produto também faz um mapeamento demográfico dos clientes (idade, sexo, raça, tipo físico etc.), informações de muito valor para grandes varejistas que já demonstraram interesse pelo produto ao pagar por uma prova de conceito: uma pequena câmera dentro da loja que envia imagens para um servidor que processa as imagens, além de um sistema em que atendentes de loja podem visualizar as fotos dos clientes e seus perfis, assim como um relatório gerencial para a equipe de marketing.
+A startup Vision AI LLC está desenvolvendo uma nova tecnologia de visão computacional que é capaz de aferir o nível de engajamento de um consumidor com os produtos de uma loja por meio do reconhecimento das expressões dos clientes (como surpresa, alegria, insatisfação). O produto também faz um mapeamento demográfico dos clientes (idade, sexo, raça, tipo físico), informações de muito valor para grandes varejistas que já demonstraram interesse pelo produto ao pagar por uma prova de conceito: uma pequena câmera dentro da loja que envia imagens para um servidor que processa as imagens, além de um sistema em que atendentes de loja podem visualizar as fotos dos clientes e seus perfis, assim como um relatório gerencial para a equipe de marketing.
 
-A empresa é formada por dois cofundadores Alex - da área de negócios - e Brad - da área de tecnologia, cada um possui 37,5% de partipação na empresa. Eles receberam um aporte de série A do Softbank de R$ 5 milhões por 20% de participação na empresa (valuation de R$ 25 milhões).
+A empresa é formada por dois cofundadores Alex - da área de negócios - e Brad - da área de tecnologia, cada um possui 37,5% de partipação na empresa. Eles receberam um aporte série A do Softbank de R$ 5 milhões por 20% de participação na empresa (valuation de R$ 25 milhões).
 
 ## Tarefa
 
@@ -28,4 +35,10 @@ O produto final precisa: i) que as câmeras tenham uma resolução maior; ii) qu
 
 3. Contratação da equipe: indique e descreva quem serão as pessoas/cargos que você irá contratar: características pessoais e profissionais, soft skills, habilidades técnicas, nível de senioridade e salário que você irá oferecer (pelo menos 5 cargos distintos, cada um com 10 linhas de descrição no mínimo) (20% da nota)
 
-4. Organização do projeto: coloque o cronograma e as tarefas (atividade 2) assim como as pessoas responsáveis por elas (atividade 3) dentro de um software de gerenciamento de projetos (Jira, Trello, Asana ou outro qualquer de sua preferência). Tire 5 fotos da tela do software escolhido que mostrem as tarefas, suas descrições, pessoas atribuídas, tags, prazos, lançamentos e demais características da implementação e anexe no documento de entrega (20% da nota)
+4. Organização do projeto: coloque o cronograma e as tarefas (atividade 2) assim como as pessoas responsáveis por elas (atividade 3) dentro de um software de gerenciamento de projetos (Jira, Trello, Asana ou outro qualquer de sua preferência). Tire 5 fotos da tela do software escolhido que mostrem as tarefas, suas descrições, pessoas atribuídas, tags, prazos, lançamentos e demais características do software utilizado e anexe no documento de entrega (20% da nota)
+
+## Formato de entrega
+
+Documento no formato PDF preferencialmente contendo texto com os requisitos mínimos de descrição e tamanho na parte de "Atividades" para as questões 1, 2 e 3, assim como as fotos da tela para a Atividade 4 com suas respectivas descrições.
+
+Bom projeto!

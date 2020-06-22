@@ -56,7 +56,7 @@ Possui características na parte de planejamento, controle, rastreamento, lança
 
 [comment]: # (source: https://www.atlassian.com/software/jira)
 
-## Atlassian - Bitbucket
+## Atlassian - BitBucket
 
 Versionamento de código via git, colaboração em código, testes e implantação
 
@@ -108,7 +108,7 @@ Possui casos de uso para trabalho remoto, gestão de projetos, marketing, rh, ve
 
 ## Git
 
-Sistem de versionamento de código distribuído para rastrear mudanças no código fonte durante o desenvolvimento de software
+Sistema de versionamento de código distribuído para rastrear mudanças no código fonte durante o desenvolvimento de software
 
 Muito utilizado para coordenar o trabalho de programadores, mas pode ser utilizado para qualquer propósito desde que sejam rastreadas mudanças em arquivos: hoje existem programas para designers (como o programa [Abstract](https://www.abstract.com), o plugin [Plant](https://plantapp.io) para Sketch), para arquitetos (para versionar arquivos CAD) e outros
 
